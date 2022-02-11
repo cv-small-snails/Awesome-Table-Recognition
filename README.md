@@ -2,7 +2,6 @@
 A curated list of resources dedicated to table recognition
 ## 1. Papers
 
-## Text Recognition
 * *CODE means official code and CODE means not official code
 
 *Conf.* | *Date* | *Title* | *Highlight* | *code* |
