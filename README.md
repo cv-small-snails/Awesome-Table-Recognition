@@ -14,10 +14,14 @@ ICCV | 2021 |[TGRNet: A Table Graph Reconstruction Network for Table Structure R
 ICDAR Competition | 2021 |[ICDAR 2021 Competition on Scientific Literature Parsing](https://arxiv.org/pdf/2106.14616v1.pdf) | Dataset | [*CODE](https://github.com/ibm-aur-nlp/PubLayNet)<br>`STARS:571` |
 ICDAR Competition | 2021 |[ LGPMA: Complicated Table Structure Recognition with Local and Global Pyramid Mask Alignment ](https://arxiv.org/pdf/2105.01848v1.pdf) | Sequence | [*CODE](https://github.com/JiaquanYe/TableMASTER-mmocr)<br>`STARS:190` |
 ICDAR Competition | 2021 |[PingAn-VCGroup's Solution for ICDAR 2021 Competition on Scientific Literature Parsing Task B: Table Recognition to HTML](https://arxiv.org/pdf/2105.06224.pdf) | Others | [*CODE](https://github.com/hikopensource/DAVAR-Lab-OCR)<br>`STARS:306` |
+WACV | 2021 |[Global table extractor (gte): A framework for joint table identification and cell structure recognition using visual context](https://openaccess.thecvf.com/content/WACV2021/papers/Zheng_Global_Table_Extractor_GTE_A_Framework_for_Joint_Table_Identification_WACV_2021_paper.pdf) | Others | No |
 CVPR Workshop | 2020 |[CascadeTabNet: An approach for end to end table detection and structure recognition from image-based documents](https://arxiv.org/pdf/2004.12629v2.pdf) | Others | [*CODE](https://github.com/DevashishPrasad/CascadeTabNet)<br>`STARS:1018` |
 ECCV | 2020 |[Image-based table recognition: data, model, and evaluation](https://arxiv.org/pdf/1911.10683v5.pdf) | Dataset | [*CODE](https://github.com/ibm-aur-nlp/PubTabNet)<br>`STARS:229` |
+ECCV | 2020 |[Table structure recognition using top-down and bottom-up cues](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730069.pdf) | Others | [*CODE](https://github.com/sachinraja13/TabStructNet)<br>`STARS:96` |
 LREC | 2020 |[TableBank: A Benchmark Dataset for Table Detection and Recognition](https://arxiv.org/abs/1903.01949) | Dataset | [*CODE](https://github.com/doc-analysis/TableBank)<br>`STARS:759` |
 ICDAR | 2019 |[Rethinking Table Recognition using Graph Neural Networks](https://arxiv.org/pdf/1905.13391v2.pdf) | GNN | [*CODE](https://github.com/shahrukhqasim/TIES-2.0)<br>`STARS:238` |
+ICDAR | 2019 |[Tablenet: Deep learning model for end-to-end table detection and tabular data extraction from scanned document images](https://arxiv.org/pdf/2001.01469.pdf) | Others | No |
+ICDAR | 2017 |[Deepdesrt: Deep learning for detection and structure recognition of tables in document images](https://www.dfki.de/fileadmin/user_upload/import/9672_PID4966073.pdf) | Others | No |
 
 ## 2. Datasets
 
