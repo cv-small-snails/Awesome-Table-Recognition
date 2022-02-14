@@ -22,6 +22,7 @@ LREC | 2020 |[TableBank: A Benchmark Dataset for Table Detection and Recognition
 arXiv | 2019/8/28 |[Complicated table structure recognition](https://arxiv.org/pdf/1908.04729.pdf) | Others | [*CODE](https://github.com/Academic-Hammer/SciTSR)<br>`STARS:232`  |
 ICDAR | 2019 |[Rethinking Table Recognition using Graph Neural Networks](https://arxiv.org/pdf/1905.13391v2.pdf) | GNN | [*CODE](https://github.com/shahrukhqasim/TIES-2.0)<br>`STARS:238` |
 ICDAR | 2019 |[Tablenet: Deep learning model for end-to-end table detection and tabular data extraction from scanned document images](https://arxiv.org/pdf/2001.01469.pdf) | Others | No |
+ICDAR | 2019 |[Res2tim: Reconstruct syntactic structures from table images.](https://ieeexplore.ieee.org/document/8978027) | Others | [*CODE](https://github.com/xuewenyuan/ReS2TIM)<br>`STARS:14` |
 ICDAR | 2017 |[Deepdesrt: Deep learning for detection and structure recognition of tables in document images](https://www.dfki.de/fileadmin/user_upload/import/9672_PID4966073.pdf) | Others | No |
 
 ## 2. Datasets
