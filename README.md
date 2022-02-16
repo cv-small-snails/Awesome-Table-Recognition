@@ -26,14 +26,28 @@ ICDAR | 2019 |[Res2tim: Reconstruct syntactic structures from table images.](htt
 ICDAR | 2017 |[Deepdesrt: Deep learning for detection and structure recognition of tables in document images](https://www.dfki.de/fileadmin/user_upload/import/9672_PID4966073.pdf) | Others | No |
 
 ## 2. Datasets
+### 2.1 Introduction
 
-|Dataset|Description|Highlight|dataset link|
-|----|----|----|----|
-|TableBank|<div style="width: 600pt">**English** TableBank is a new image-based table detection and recognition dataset built with novel weak supervision from Word and Latex documents on the internet, contains 417K high-quality labeled tables.**It only contain cell Topology groudtruth**</div>|cell Topology <br> table position|[TableBank](https://github.com/doc-analysis/TableBank)|
-|SciTSR|<div style="width: 600pt">***English** SciTSR is a large-scale table structure recognition dataset, which contains 15,000 tables in PDF format and their corresponding structure labels obtained from LaTeX source files.**It contain cell Topology, cell content groudtruth**</div>|cell Topology <br> cell content  <br> table position|[SciTSR](https://github.com/Academic-Hammer/SciTSR)|
-|PubTabNet|<div style="width: 600pt">**English** PubTabNet is a large dataset for image-based table recognition, containing 568k+ images of tabular data annotated with the corresponding HTML representation of the tables.**It contain cell Topology, cell content and non-blank cell location groudtruth**</div>|cell Topology <br> cell content  <br>non-blank cell location <br> table position|[PubTabNet](https://github.com/ibm-aur-nlp/PubTabNet)|
-|FinTabNet|<div style="width: 600pt">**English** This dataset contains complex tables from the annual reports of S&P 500 companies with detailed table structure annotations to help train and test structure recognition.</div>|[FinTabNet](.)|[FinTabNet](https://developer.ibm.com/exchanges/data/all/fintabnet/)|
-|PubTables-1M|<div style="width: 600pt">**English** A large, detailed, high-quality dataset for training and evaluating a wide variety of models for the tasks of table detection, table structure recognition, and functional analysis.</div>|[PubTables-1M](.)|[PubTables-1M](https://github.com/microsoft/table-transformer)|
-|WTW|<div style="width: 600pt">**English and Chinese** WTW-Dataset is the first wild table dataset for table detection and table structure recongnition tasks, which is constructed from photoing, scanning and web pages, covers 7 challenging cases like: (1)Inclined tables, (2) Curved tables, (3) Occluded tables or blurredtables (4) Extreme aspect ratio tables (5) Overlaid tables, (6) Multi-color tables and (7) Irregular tables in table structure recognition.**It contain cell Topology, all cell location groudtruth**</div>|cell Topology <br>all cell location <br> table position|[WTW](https://github.com/wangwen-whu/wtw-dataset)|
-|TNCR|<div style="width: 600pt">**English** a new table dataset with varying image quality collected from open access websites.TNCR contains 9428 labeled tables with approximately 6621 images.their classification into 5 different classes(Full Lined,Merged Cells,No lines,Partial Lined,Partial Lined Merged Cells).</div>|[TNCR](.)|[TNCR](https://github.com/abdoelsayed2016/TNCR_Dataset)|
-|TAL_OCR_TABLE|<div style="width: 600pt">**Chinese** TAL_OCR_TABLE dataset come from TAL Form Recognition Technology Challenge.The data of comes from the real homework of students in the education scene and the scene of the test paper. It contain 16k train image and 4k test image**It contain cell Topology, cell content and all cell location groudtruth**</div>|cell Topology <br> cell content  <br>all cell location <br> table position|[TAL_OCR_TABLE](https://www.heywhale.com/home/competition/606d6fff0e04ac0017c3bf7f/content/1)|
+|Dataset|Description|dataset link|
+|----|----|----|
+|TableBank|**English** TableBank is a new image-based table detection and recognition dataset built with novel weak supervision from Word and Latex documents on the internet, contains 417K high-quality labeled tables.**It only contain cell Topology groudtruth**|[TableBank](https://github.com/doc-analysis/TableBank)|
+|SciTSR|***English** SciTSR is a large-scale table structure recognition dataset, which contains 15,000 tables in PDF format and their corresponding structure labels obtained from LaTeX source files.**It contain cell Topology, cell content groudtruth**|[SciTSR](https://github.com/Academic-Hammer/SciTSR)|
+|PubTabNet|**English** PubTabNet is a large dataset for image-based table recognition, containing 568k+ images of tabular data annotated with the corresponding HTML representation of the tables.**It contain cell Topology, cell content and non-blank cell location groudtruth**|[PubTabNet](https://github.com/ibm-aur-nlp/PubTabNet)|
+|FinTabNet|**English** This dataset contains complex tables from the annual reports of S&P 500 companies with detailed table structure annotations to help train and test structure recognition.|[FinTabNet](https://developer.ibm.com/exchanges/data/all/fintabnet/)|
+|PubTables-1M|**English** A large, detailed, high-quality dataset for training and evaluating a wide variety of models for the tasks of table detection, table structure recognition, and functional analysis.|[PubTables-1M](https://github.com/microsoft/table-transformer)|
+|WTW|**English and Chinese** WTW-Dataset is the first wild table dataset for table detection and table structure recongnition tasks, which is constructed from photoing, scanning and web pages, covers 7 challenging cases like: (1)Inclined tables, (2) Curved tables, (3) Occluded tables or blurredtables (4) Extreme aspect ratio tables (5) Overlaid tables, (6) Multi-color tables and (7) Irregular tables in table structure recognition.**It contain cell Topology, all cell location groudtruth**|[WTW](https://github.com/wangwen-whu/wtw-dataset)|
+|TNCR|**English** a new table dataset with varying image quality collected from open access websites.TNCR contains 9428 labeled tables with approximately 6621 images.their classification into 5 different classes(Full Lined,Merged Cells,No lines,Partial Lined,Partial Lined Merged Cells).|[TNCR](https://github.com/abdoelsayed2016/TNCR_Dataset)|
+|TAL_OCR_TABLE|**Chinese** TAL_OCR_TABLE dataset come from TAL Form Recognition Technology Challenge.The data of comes from the real homework of students in the education scene and the scene of the test paper. It contain 16k train image and 4k test image**It contain cell Topology, cell content and all cell location groudtruth**|[TAL_OCR_TABLE](https://www.heywhale.com/home/competition/606d6fff0e04ac0017c3bf7f/content/1)|
+
+### 2.2 Comparison of datasets for table structure recognition.
+|Dataset|Cell Topology|Cell content|Cell Location|Table Location|
+|----|----|----|----|----|
+|TableBank|✓|✕|✕|✓|
+|SciTSR|✓|✓|✕|✓|
+|PubTabNet|✓|✓|$✓^†$|✓|
+|FinTabNet|✓|✓|$✓^†$|✓|
+|PubTables-1M|✓|✓|✓|✓|
+|WTW|✓|✕|✓|✓|
+|TNCR|✕|✕|✕|✓|
+|TAL_OCR_TABLE|✓|✓|✓|✓|
+$^†$ For these datasets, cell bounding boxes are given for non-blank cells only and exclude any non-text portion of a cell.
