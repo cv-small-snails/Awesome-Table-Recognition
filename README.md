@@ -50,4 +50,5 @@ ICDAR | 2017 |[Deepdesrt: Deep learning for detection and structure recognition 
 |WTW|✓|✕|✓|✓|
 |TNCR|✕|✕|✕|✓|
 |TAL_OCR_TABLE|✓|✓|✓|✓|
+
 <sup>†</sup> For these datasets, cell bounding boxes are given for non-blank cells only and exclude any non-text portion of a cell.
