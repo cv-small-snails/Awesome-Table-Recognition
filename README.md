@@ -54,10 +54,19 @@ ICDAR | 2017 |[Deepdesrt: Deep learning for detection and structure recognition 
 <sup>†</sup> For these datasets, cell bounding boxes are given for non-blank cells only and exclude any non-text portion of a cell.
 
 ## 3. Other technical solutions
-PRCV2021 Table Recognition Technology Challenge
-  * [Competition First Place Method](https://mp.weixin.qq.com/s?__biz=MzI1ODk1ODI5Mw%3D%3D&mid=2247489551&idx=1&sn=80bc256f88c51ae4c290debb9bc27148&chksm=ea016eb5dd76e7a3ab6be37fcc2b8d60b9dfbdbf46d7196cc27690eb6faf1ff5b9272732831f&mpshare=1&scene=1&srcid=0224YQwvvlj9xDO9aYeK2BvD&sharer_sharetime=1645665537919&sharer_shareid=72261baff3e3bd9cd5183f7dbcf5bf01#rd)
- * [Competition Second Place Method](https://drive.google.com/file/d/1DM7vqrc2YGrLRd0RjTkQ7wrEJuoAknQo/view?usp=sharing)
- * [Competition Third Place Method](https://drive.google.com/file/d/1GSM6ms6EHVZQzgJS8rZ-27OblkaiUl8N/view?usp=sharing)
+### PRCV2021 Table Recognition Technology Challenge
+- Competition First Place Solution
+  - [Solution Introduction](https://mp.weixin.qq.com/s?__biz=MzI1ODk1ODI5Mw%3D%3D&mid=2247489551&idx=1&sn=80bc256f88c51ae4c290debb9bc27148&chksm=ea016eb5dd76e7a3ab6be37fcc2b8d60b9dfbdbf46d7196cc27690eb6faf1ff5b9272732831f&mpshare=1&scene=1&srcid=0224YQwvvlj9xDO9aYeK2BvD&sharer_sharetime=1645665537919&sharer_shareid=72261baff3e3bd9cd5183f7dbcf5bf01#rd)
+  - [Solution Report PPT](https://mp.weixin.qq.com/s?__biz=MzI1ODk1ODI5Mw%3D%3D&mid=2247489551&idx=1&sn=80bc256f88c51ae4c290debb9bc27148&chksm=ea016eb5dd76e7a3ab6be37fcc2b8d60b9dfbdbf46d7196cc27690eb6faf1ff5b9272732831f&mpshare=1&scene=1&srcid=0224YQwvvlj9xDO9aYeK2BvD&sharer_sharetime=1645665537919&sharer_shareid=72261baff3e3bd9cd5183f7dbcf5bf01#rd)
+- Competition Second Place Method
+  - [Solution Report PPT](https://drive.google.com/file/d/1DM7vqrc2YGrLRd0RjTkQ7wrEJuoAknQo/view?usp=sharing)
+- Competition Third Place Method
+  - [Solution Report PPT](https://drive.google.com/file/d/1GSM6ms6EHVZQzgJS8rZ-27OblkaiUl8N/view?usp=sharing)
+### ICDAR 2021 Competition on Scientfic Literature Parsing TaskB: Table Recognition to HTML
+- Competition First Place Solution
+- Competition Second Place Method
+  - [Solution Report PPT](https://github.com/JiaquanYe/TableMASTER-mmocr/blob/master/imgs/table2html.pdf)
+  - [Solution Report Video](https://www.bilibili.com/video/BV1pU4y1E7Fq?spm_id_from=333.999.0.0)
  
  
   
