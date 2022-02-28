@@ -64,6 +64,8 @@ ICDAR | 2017 |[Deepdesrt: Deep learning for detection and structure recognition 
   - [Solution Report PPT](https://drive.google.com/file/d/1GSM6ms6EHVZQzgJS8rZ-27OblkaiUl8N/view?usp=sharing)
 ### ICDAR 2021 Competition on Scientfic Literature Parsing TaskB: Table Recognition to HTML
 - Competition First Place Solution
+  - [Solution Report PPT](https://davar-lab.github.io/files/icdar2021_lgpma/LGPMA-slides.pdf)
+  - [Solution Report Video](https://www.bilibili.com/video/BV19Q4y1Y73d?spm_id_from=333.999.0.0)
 - Competition Second Place Method
   - [Solution Report PPT](https://github.com/JiaquanYe/TableMASTER-mmocr/blob/master/imgs/table2html.pdf)
   - [Solution Report Video](https://www.bilibili.com/video/BV1pU4y1E7Fq?spm_id_from=333.999.0.0)
