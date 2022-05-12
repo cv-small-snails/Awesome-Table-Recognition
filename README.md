@@ -6,6 +6,7 @@ A curated list of resources dedicated to table recognition
 
 *Conf.* | *Date* | *Title* | *Highlight* | *code* |
 :---: | :---: |:--- | :---: | :---: |
+CVPR | 2022 |[TableFormer: Table Structure Understanding with Transformers.](https://arxiv.org/pdf/2203.01017.pdf) | Sequence | No |
 arXiv | 2021/11/26 |[Neural Collaborative Graph Machines for Table Structure Recognition](https://arxiv.org/pdf/2111.13359.pdf) | GNN | No |
 arXiv | 2021/11/18 |[PubTables-1M: Towards comprehensive table extraction from unstructured documents](https://arxiv.org/pdf/2110.00061v3.pdf) | Dataset | [*CODE](https://github.com/microsoft/table-transformer)<br>![](https://img.shields.io/github/stars/microsoft/table-transformer.svg?style=social) |
 arXiv | 2021/5/23 |[Multi-Type-TD-TSR -- Extracting Tables from Document Images using a Multi-stage Pipeline for Table Detection and Table Structure Recognition: from OCR to Structured Table Representations](https://arxiv.org/pdf/2105.11021.pdf) | Others | [*CODE](https://github.com/Psarpei/Multi-Type-TD-TSR)<br>![](https://img.shields.io/github/stars/Psarpei/Multi-Type-TD-TSR.svg?style=social)  |
