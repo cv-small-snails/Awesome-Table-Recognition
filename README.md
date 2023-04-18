@@ -6,6 +6,7 @@ A curated list of resources dedicated to table recognition
 
 *Conf.* | *Date* | *Title* | *Highlight* | *code* |
 :---: | :---: |:--- | :---: | :---: |
+arXiv | 2023/3/7 |[LORE: Logical Location Regression Network for Table Structure Recognition](https://arxiv.org/pdf/2303.03730.pdf) | Detection | [*CODE](https://github.com/AlibabaResearch/AdvancedLiterateMachinery)<br>![](https://img.shields.io/github/stars/AlibabaResearch/AdvancedLiterateMachinery.svg?style=social) |
 ACM-MM | 2022 |[TSRFormer: Table Structure Recognition with Transformers](https://arxiv.org/pdf/2208.04921.pdf) | Detection | No |
 CVPR | 2022 |[TableFormer: Table Structure Understanding with Transformers.](https://arxiv.org/pdf/2203.01017.pdf) | Sequence | No |
 CVPR | 2022 |[Neural Collaborative Graph Machines for Table Structure Recognition](https://arxiv.org/pdf/2111.13359.pdf) | GNN | No |
