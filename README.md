@@ -1,5 +1,13 @@
-# Awesome-Table-Recognition
+# Table recognition material
 A curated list of resources dedicated to table recognition
+Based on cv-small-nails repo
+
+## 0. Motivation
+Working on projects of digitization of .pdfs and images of unstructured and strutured data i found myself in the need of understanding the state of the art of:
+1. Table detection
+2. OCR
+
+
 ## 1. Papers
 
 * *CODE means official code and CODE means not official code
