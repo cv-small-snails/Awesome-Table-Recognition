@@ -6,7 +6,7 @@ A curated list of resources dedicated to table recognition
 
 *Conf.* | *Date* | *Title* | *Highlight* | *code* |
 :---: | :---: |:--- | :---: | :---: |
-IJCAI | 2023 |[Divide Rows and Conquer Cells: Towards Structure Recognition for Large Tables](https://www.ijcai.org/proceedings/2023/0152.pdf) | Detection | No |
+IJCAI | 2023 |[Divide Rows and Conquer Cells: Towards Structure Recognition for Large Tables](https://www.ijcai.org/proceedings/2023/0152.pdf) | Sequence | No |
 AAAI | 2022 |[LORE: Logical Location Regression Network for Table Structure Recognition](https://arxiv.org/pdf/2303.03730.pdf) | Detection | [*CODE](https://github.com/AlibabaResearch/AdvancedLiterateMachinery)<br>![](https://img.shields.io/github/stars/AlibabaResearch/AdvancedLiterateMachinery.svg?style=social) |
 ACM-MM | 2022 |[TSRFormer: Table Structure Recognition with Transformers](https://arxiv.org/pdf/2208.04921.pdf) | Detection | No |
 CVPR | 2022 |[TableFormer: Table Structure Understanding with Transformers.](https://arxiv.org/pdf/2203.01017.pdf) | Sequence | No |
