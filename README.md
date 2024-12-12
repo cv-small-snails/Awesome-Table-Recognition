@@ -43,6 +43,7 @@ ICDAR | 2017 |[Deepdesrt: Deep learning for detection and structure recognition 
 |WTW|**English and Chinese** WTW-Dataset is the first wild table dataset for table detection and table structure recongnition tasks, which is constructed from photoing, scanning and web pages, covers 7 challenging cases like: (1)Inclined tables, (2) Curved tables, (3) Occluded tables or blurredtables (4) Extreme aspect ratio tables (5) Overlaid tables, (6) Multi-color tables and (7) Irregular tables in table structure recognition.**It contain cell Topology, all cell location groudtruth**|[WTW](https://github.com/wangwen-whu/wtw-dataset)|
 |TNCR|**English** a new table dataset with varying image quality collected from open access websites.TNCR contains 9428 labeled tables with approximately 6621 images.their classification into 5 different classes(Full Lined,Merged Cells,No lines,Partial Lined,Partial Lined Merged Cells).|[TNCR](https://github.com/abdoelsayed2016/TNCR_Dataset)|
 |TAL_OCR_TABLE|**Chinese** TAL_OCR_TABLE dataset come from TAL Form Recognition Technology Challenge.The data of comes from the real homework of students in the education scene and the scene of the test paper. It contain 16k train image and 4k test image**It contain cell Topology, cell content and all cell location groudtruth**|[TAL_OCR_TABLE](https://www.heywhale.com/home/competition/606d6fff0e04ac0017c3bf7f/content/1)|
+|SynthTabNet|**English** SynthTabNet is a synthetically generated dataset that contains annotated images of data in tabular layouts. It contain 600k train image, All parts are divided into Train, Test and Val splits (80%, 10%, 10%). **It contain cell Topology, cell content and all cell location groudtruth**|[SynthTabNet](https://github.com/IBM/SynthTabNet?tab=readme-ov-file)|
 
 ### 2.2 Comparison of datasets for table structure recognition.
 |Dataset|Cell Topology|Cell content|Cell Location|Table Location|
@@ -55,6 +56,7 @@ ICDAR | 2017 |[Deepdesrt: Deep learning for detection and structure recognition 
 |WTW|✓|✕|✓|✓|
 |TNCR|✕|✕|✕|✓|
 |TAL_OCR_TABLE|✓|✓|✓|✓|
+|SynthTabNet|✓|✓|✓|✓|
 
 <sup>†</sup> For these datasets, cell bounding boxes are given for non-blank cells only and exclude any non-text portion of a cell.
 
